@@ -1,4 +1,5 @@
 # dotfiles
 Yuuki's Hyprland dotfiles
-![2025-06-25-202317_hyprshot](https://github.com/user-attachments/assets/427d4fa0-fa37-442a-8386-32af5fab6bb7)
-![2025-06-25-202200_hyprshot](https://github.com/user-attachments/assets/b8c68860-c414-4b66-bc33-f2502581253a)
+<img width="1920" height="1080" alt="2025-07-23-000151_hyprshot" src="https://github.com/user-attachments/assets/57776803-991e-4fd9-8d6e-e81fe5d51746" />
+<img width="1920" height="1080" alt="2025-07-23-000008_hyprshot" src="https://github.com/user-attachments/assets/6e04afdd-9d54-4395-8741-8c4625bef925" />
+
